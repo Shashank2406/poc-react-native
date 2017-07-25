@@ -11,3 +11,9 @@ $ react-native run-ios
 $ npm start
 ```
 The App will run in the simulator 
+
+## Various Components 
+
+Form component uses react-native-form-generator
+List component shows the use of API calls 
+src/index.js shows the use of react-navigation for navigation  
