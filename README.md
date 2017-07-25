@@ -14,6 +14,6 @@ The App will run in the simulator
 
 ## Various Components 
 
-Form component uses react-native-form-generator <br/>
-List component shows the use of API calls <br/>
-src/index.js shows the use of react-navigation for navigation <br/>
+1)Form component uses react-native-form-generator <br/>
+2)List component shows the use of API calls <br/>
+3)src/index.js shows the use of react-navigation for navigation <br/>
